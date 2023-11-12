@@ -1,2 +1,2 @@
-# Apple-website-clone
+# Arafats calculator
  
